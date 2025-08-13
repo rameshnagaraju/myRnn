@@ -1,6 +1,7 @@
 
 
 **Explaination in simple easy way:**
+
 Step 1 — Start with a normal neural network 🍪
 A normal neural network is like a vending machine:
 
