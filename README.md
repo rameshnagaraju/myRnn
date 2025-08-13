@@ -1,3 +1,4 @@
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/682c92b3-5319-403e-92f8-0b6b0ac8f35e" />
 
 
 **Explaination in simple easy way:**
